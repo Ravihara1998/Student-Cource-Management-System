@@ -1,2 +1,2 @@
 # 
-Course management system designed for Studet as a example of vertuale learning platform.
+Course management system designed for Student as a example of virtual learning platform.
